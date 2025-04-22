@@ -4,6 +4,8 @@ public class OrderPrimitive {
     private static final String EUR = "EUR";
 
     public static void main(String[] args) {
+        System.out.println("Git Test");
+
         String clientName = "Alice";
         String product = "smartphone";
         double price = 305.99;
