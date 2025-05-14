@@ -5,7 +5,6 @@ public class MassiveWork {
         int[] numbers = {5, -3, 12, -8, 0, 7, -1, 14, -6, 9,
                 -4, 2, -10, 11, -7, 3, 6, -2, 8, -9};
 
-
         int min = numbers[0];
         for (int num : numbers) {
             if (num < min) {
